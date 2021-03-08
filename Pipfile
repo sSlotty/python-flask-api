@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-bcrypt = "*"
 flask-cors = "*"
-flask-restful = "*"
+flask-jwt-extended = "*"
 flask_mongoengine = "*"
+flask-restful = "*"
 kanpai = "*"
 mongoengine = "*"
 
